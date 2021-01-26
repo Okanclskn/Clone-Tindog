@@ -1,1 +1,1 @@
-TinDog Starting Files
+This is clone Tindog web site
